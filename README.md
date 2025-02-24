@@ -1,16 +1,16 @@
-﻿# Coding-template 
-🚀 Here with my first react application
-Steps to run it 
-1) clone the repository 
-2) run npm install
-3) npm start
+# Coding Template 🚀  
+Welcome to my **first React application**!  
 
+## How to Run the Project  
+Follow these steps to get started:  
+1️⃣ **Clone the repository**  
+2️⃣ Run **`npm install`** to install dependencies  
+3️⃣ Start the development server with **`npm start`**  
 
-yeah watch it live 😁
+## Project Highlights  
+✅ Implemented **useState Hook** for state management  
+✅ Managed **components and props** effectively  
 
-● Studied to use Hook named useState 
-● handled components and props 
+Stay tuned for more updates! 🚀  
 
-its 12:00 am 
-byebye 
-#CodeWithSharyu ❤️
+_**#CodeWithSharyu ❤️**_
